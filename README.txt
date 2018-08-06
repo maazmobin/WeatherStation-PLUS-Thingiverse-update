@@ -7,3 +7,5 @@ The Data logger code has been taken from
 https://github.com/squix78/esp8266-dht-thingspeak-logger.
 
 In this Arduino code its simply to combine both of the codes. This code is enable to update Oled with weather Station as well as and logged data on Thingiverse.   
+
+The required Arduino libraries has been added in that reporsitory.
